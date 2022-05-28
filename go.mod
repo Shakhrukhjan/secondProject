@@ -1,3 +1,3 @@
-module github.com/Shakhrukhjan/secondProject.git
+module github.com/Shakhrukhjan/secondProject
 
 go 1.17
